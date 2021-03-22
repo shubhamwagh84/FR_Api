@@ -3,7 +3,7 @@ chardet==4.0.0
 click==7.1.2
 cmake
 cycler==0.10.0
-dlib==19.7.0
+dlib
 Flask==1.1.2
 Flask-Cors==3.0.10
 gunicorn==20.0.4
